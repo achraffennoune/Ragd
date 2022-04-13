@@ -1,0 +1,64 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.raggddolle.crushdismo",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [{
+			"title": "Guide 1",
+			"description": " Ragdoll Dismounting is a new stickman game reminiscent of some of the best old Newgrounds games from back in the golden age of the internet. Your goal is simply to dismount your stickman in the goriest, bloodiest ways possible. The more pain you cause to your stickman, the more points you earn at the end of the level. "
+		},
+		{
+			"title": "Guide 2",
+			"description": " To dismount at the highest possible speed, tap the start button and hold it until the bar goes all the way around, or as close to all the way around as you can. The faster you go, the easier it is to break your stickman and earn a lot of points. "
+		},
+		{
+			"title": "Guide 3",
+			"description": "If you don’t get off to a fast enough start, you can hit the reset button to start over again with no penalty. It’s usually best not to reset, though, unless you get off to such a slow start that you literally are about to score zero points. "
+		},
+		{
+			"title": "Guide 4  ",
+			"description": " The right combination of vehicle, stage, and prop can earn you high scores, but there are just as many lame combinations that end up being completely worthless for points and coins. "
+		},
+		{
+			"title": "Guide 5",
+			"description": "An example of a cheap, very effective combo is shopping cart with the starting stairs map and no props. Any vehicle that’s powered by something (e.g. truck, motorcycle, or rocket) is almost always effective. Any prop that’s explosive or leads to speed boosts is universally effective.   "
+		}
+	]
+}
